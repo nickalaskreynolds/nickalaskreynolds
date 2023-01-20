@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Nick 👋
 
-<!--
-**nickalaskreynolds/nickalaskreynolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an astrophysicist, currently at the [University of Oklahoma](https://nhn.ou.edu). My research interests pertain to the formation of the youngest protostars and I've done a [lot of work in this area.](https://nickalaskreynolds.github.io#projects) I am interested in open source projects (science and coding), software development, and learning new coding skills.
 
-Here are some ideas to get you started:
+[https://nickreynolds.xyz](https://nickreynolds.xyz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I use the amazing [ALMA](https://almascience.nrao.edu) 
+- 👨‍💻  `import python3`, `import '@nuxtjs/vue';`, `mod cargo_rust_development;`
+- [x] Publish a paper[^1]
+- [x] Obtain a masters
+- [ ] Collaborate with you
+  
+  
+  [^1]: [Kinematic Analysis of a Protostellar Multiple System](https://ui.adsabs.harvard.edu/abs/2021ApJ...907L..10R/abstract)
