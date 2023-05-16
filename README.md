@@ -7,7 +7,7 @@ I'm an astrophysicist, currently at the [University of Oklahoma](https://nhn.ou.
 - 🔭 I use the amazing [ALMA](https://almascience.nrao.edu) 
 - 👨‍💻  `import python3`, `import '@nuxtjs/vue';`, `mod cargo_rust_development;`
 - [x] Publish a paper[^1]
-- [x] Obtain a masters
+- [x] Obtain a Ph.D.
 - [ ] Collaborate with you
   
   
